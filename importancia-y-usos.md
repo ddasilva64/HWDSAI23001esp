@@ -229,9 +229,11 @@ Todos los días tendremos que enfrentarnos a las siguientes actividades, si quer
 
 En resumen, un **Ingeniero de aprendizaje automático** monitorea, evalúa y corrige los modelos propuestos por el **Científico de datos** y crea un producto con los desarrolladores, implementando los modelos de \*\*Aprendizaje automático \*\*.
 
-**Proceso de integración de ML al producto**
+**Proceso de integración de ML en el producto**
 
 Hay equipos encargados de implementar modelos de ML en el producto. Por ejemplo: el algoritmo de recomendaciones de Netflix o YouTube, quienes por medio de los datos que el usuario crea, al interactuar con la plataforma, predice cuáles son los videos que más podrían interesarle.
+
+![Ciclo de vida de ML](https://i.imgur.com/k550ZNi.png)
 
 Los pasos para la integración del **ML** al producto son:
 
@@ -262,9 +264,9 @@ Finalmente, podemos decir que la AI se refiere a las máquinas emulando la cogni
 | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
 | Proceso de análisis de los datos y generación de predicciones para la toma de decisiones y creación de productos | Algoritmos para predecir eventos futuros que emulan la cognición humana |
 
-|                                 **Ambas**                                 |
-| :-----------------------------------------------------------------------: |
-| En el proceso de Ciencia de utilizamos la AI como una de sus herramientas |
+|                             **Relación**                             |
+| :------------------------------------------------------------------: |
+| En el proceso de la DS utilizamos la AI como una de sus herramientas |
 
 #### **¿Qué es Big Data? ¿Cuál es su diferencia con la DS?**
 
@@ -277,7 +279,10 @@ Para que los datos sean considerados Big Data deben cumplir con las 5 V’s del 
 1. **Volumen**: La organización tiene gran cantidad de datos, desde su funcionamiento, hasta las interacciones de los usuarios.
 2. **Velocidad**: Los datos del Big Data deben tener una velocidad "en vivo", para poder procesarlos de manera adecuada, considerando su tamaño.
 3. **Variedad**: Los datos que almacene o transaccione la empresa tienen distintos tipos de formatos.
-4. **Veracidad**: Los datos que se tengan en **Big Data deben ser confiables**, porque **en ellos se basarán importantes decisiones del negocio**. 5 **Valor**: Estos datos, que se almacenan, deben proporcionar algún tipo de ventaja a la empresa, a la hora de tomar decisiones o de hacer productos para sus consumidores.
+4. **Veracidad**: Los datos que se tengan en **Big Data deben ser confiables**, porque **en ellos se basarán importantes decisiones del negocio**.&#x20;
+5. **Valor**: Estos datos, que se almacenan, deben proporcionar algún tipo de ventaja a la empresa, a la hora de tomar decisiones o de hacer productos para sus consumidores.
+
+![5 V's del Big Data](https://i.imgur.com/pftHCnE.png)
 
 **Procesamiento de Big Data**
 
@@ -290,6 +295,8 @@ Algunos servicios que se encargan de dividir este gran problema en partes más p
 En el procedimiento de búsqueda de información valiosa, que es encargado a la DS, se usa **Big Data para aumentar las posibilidades de tener información más profunda y detallada del negocio**.
 
 Además, **se pueden emplear modelos entrenados de ML** de AI para agilizar y encontrar patrones inesperados.
+
+![Relación entre DS y Big Data](https://i.imgur.com/Msl0VT8.png)
 
 **Conclusión**
 
@@ -356,6 +363,8 @@ Dentro de la AI y de la Ciencia de Datos nos encontramos con muchas áreas y ram
 * **Procesamiento del Lenguaje Natural (Natural Language Processing, NLP)**
 * **Robótica**
 
+![Ramas de la AI](https://i.imgur.com/Utgz7qW.png)
+
 **Aprendizaje Automático (Machine Learning, ML)**
 
 Serie de algoritmos que hacen que un sistema sea artificialmente inteligente.
@@ -364,6 +373,8 @@ Serie de algoritmos que hacen que un sistema sea artificialmente inteligente.
 
 * **De aprendizaje supervisado**: En este aprendizaje somos nosotros quienes guiamos el algoritmo a la respuesta correcta.
 * **De aprendizaje sin supervisión**: El algoritmo detecta patrones y agrupa la información con estos patrones. Aquí podemos darle características a los algoritmos y ellos agrupan todo a través de patrones relacionados con esa información.
+
+![Tipos de ML](https://i.imgur.com/CT6GkNt.png)
 
 **Aprendizaje Profundo (Deep Learning, DL)**
 
