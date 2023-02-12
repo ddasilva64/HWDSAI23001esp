@@ -19,3 +19,5 @@
 * Etc.
 
 ![Analista de datos vs científico de datos](https://i.imgur.com/9ooKGqm.png)
+
+![Integración de la ML en el producto](https://i.imgur.com/FwWklLI.png)
