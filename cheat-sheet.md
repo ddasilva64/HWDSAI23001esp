@@ -54,3 +54,5 @@
 **Storytelling => convertir problemas de datos en historias**
 
 ![Análisis con Storytelling](https://i.imgur.com/1MwX8Ur.jpg)
+
+![Áreas conociemiento DS](https://i.imgur.com/OiGRrLY.png)
