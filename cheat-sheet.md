@@ -1,5 +1,19 @@
 # Cheat sheet
 
-#### Polynomial
+**Salarios en DS**
 
-![Polynomial](https://i.imgur.com/qAUuri1.png)
+| ámbito geográfico | júnior | senior |
+| :---------------: | :----: | :----: |
+|       LATAM       | $1.000 | $4,000 |
+|       España      | $1.940 | $6.200 |
+|         UE        | $2.160 | $8.500 |
+|        EEUU       | $2.050 | $9.300 |
+
+**Áreas de aplicación**
+
+* Salud
+* Educación
+* Entretenimiento
+* Finanzas
+* Internet de las cosas (Internet of Things, IoT)
+* Etc.
