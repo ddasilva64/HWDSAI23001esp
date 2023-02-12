@@ -181,6 +181,8 @@ Una de las grandes hazañas que ha podido lograr la AI fue ganarle a campeones m
 
 Además, una aclaración importante es que la AI está **limitada**, de cierto modo, porque **no puede tener consciencia de sí misma** y **no puede tomar sus propias decisiones**.
 
+![DS vs AI](https://i.imgur.com/4bIC90T.png)
+
 **Aprendizaje Automático (Machine Learning, ML)**
 
 Es una **rama de la AI**, que tiene como objetivo **hacer que los ordenadores aprendan determinada habilidad**.
