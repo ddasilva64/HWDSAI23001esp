@@ -403,6 +403,8 @@ En las herramientas tradicionales de automatización del flujo de trabajo, un de
 
 Las herramientas RPA tienen fuertes similitudes técnicas con las herramientas de prueba de GUI. También automatizan las interacciones con la interfaz (GUI) y, a menudo, lo hacen repitiendo un conjunto de acciones de demostración realizadas por un usuario. Las herramientas de RPA difieren de dichos sistemas en que permiten que los datos se manejen en y entre múltiples aplicaciones, por ejemplo, recibir correos electrónicos que contienen una factura, extraer los datos y luego escribirlos en un sistema de contabilidad.
 
+![RPA](https://i.imgur.com/qbXFaUr.png)
+
 **Visión Artificial (Computer Vision, CV)**
 
 La CV es un campo científico interdisciplinario que se ocupa de cómo los ordenadores pueden obtener una comprensión de alto nivel a partir de imágenes o videos digitales. Desde la perspectiva de la ingeniería, busca comprender y automatizar las tareas que puede realizar el sistema visual humano.
