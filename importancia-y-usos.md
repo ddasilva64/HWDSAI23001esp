@@ -195,6 +195,8 @@ Esto se hace por medio de pasarle **muchos datos** a un **algoritmo**, que poste
 
 Se usan para entrenar un algoritmo y obtener un modelo, que pueda hacer predicciones para resolver problemas e implementarse en un software, para un mejor rendimiento en el negocio.
 
+![Training data](https://i.imgur.com/EkBVaXr.png)
+
 **Datos de entrada**
 
 Se los proporcionamos al modelo, obtenido tras de ser entrenado, que son del mismo contexto que los de entrenamiento, pero con diferentes detalles. Con ellos se van a generar predicciones que serán evaluadas para garantizar la eficacia del modelo.
