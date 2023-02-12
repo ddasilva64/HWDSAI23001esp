@@ -92,7 +92,7 @@ Son roles muy similares, **pero tienen ciertas diferencias**, como por ejemplo q
 
 Mientras que el **analista de datos se enfoca en responder preguntas de negocio, de las demás áreas, por medio del análisis de datos del presente** y con una programación fundamental.
 
-![Analista de datos vs científico de datos](https://i.imgur.com/l2HqDKC.png)
+![Analista de datos vs científico de datos](https://i.imgur.com/9ooKGqm.png)
 
 **Conclusión**
 
