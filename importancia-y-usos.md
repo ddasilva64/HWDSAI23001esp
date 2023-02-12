@@ -383,9 +383,13 @@ Para empezar a entender qué es el Aprendizaje Profundo, primero debemos compara
 * **Nuestro cerebro** está formado por diferentes núcleos de redes neuronales que tienen unas características de percepción y respuesta muy específicas, es decir, cada red se especializa en tareas especiales y es diferente a las demás redes. Por ejemplo, la percepción de un olor y la respuesta de gusto o disgusto por ese olor; la percepción de un sonido y la transición de ese sonido a las sensaciones.
 * **En AI**, los modelos computacionales de Aprendizaje Profundo son una imitación de aquellas características arquitectónicas de nuestro sistema nervioso, lo que permite que cada red neuronal construida artificialmente sea entrenada para tareas específicas.
 
+![DL](https://i.imgur.com/i7RonwG.png)
+
 **¿Por qué se llama Aprendizaje Profundo?**
 
 En el cerebro humano, la arquitectura de las redes neuronales funciona de tal manera que **la información recibida del exterior pasa a través de una gran cantidad de capas antes de convertirse en una respuesta**.
+
+![Funcionamiento DL](https://i.imgur.com/KQBFt14.jpg)
 
 El Aprendizaje Profundo es un conjunto de algoritmos no lineales que se pueden aplicar en el modelado de datos y el reconocimiento de patrones. Cuando nos referimos a una forma no lineal, estamos hablando de las capas de redes neuronales artificiales que se apilan en una jerarquía, que van desde características de bajo nivel de abstracción, hasta características de nivel de abstracción más complejas.
 
