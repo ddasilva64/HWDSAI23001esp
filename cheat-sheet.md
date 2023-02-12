@@ -65,4 +65,4 @@
 
 La **AI** intenta **emular la inteligencia humana**, **por medio de algoritmos** (modelos). La AI, hoy en día, está **limitada**, porque **no puede tener consciencia de sí misma** y **no puede tomar sus propias decisiones**.
 
-ML es una **rama de la A. Hace que los ordenadores aprendan determinada habilidad,** mediante la entrada de **muchos datos** en un **algoritmo**, que arrojan un **modelo**, el cual podrá **resolver problemas por medio de predicciones**, o también implementarlo en un software para **solucionar determinadas situaciones**.
+El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada habilidad,** mediante la entrada de **muchos datos** en un **algoritmo**, que arrojan un **modelo**, el cual podrá **resolver problemas por medio de predicciones**, o también implementarlo en un software para **solucionar determinadas situaciones**.
