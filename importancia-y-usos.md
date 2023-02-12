@@ -387,8 +387,6 @@ Para empezar a entender qué es el Aprendizaje Profundo, primero debemos compara
 
 En el cerebro humano, la arquitectura de las redes neuronales funciona de tal manera que **la información recibida del exterior pasa a través de una gran cantidad de capas antes de convertirse en una respuesta**.
 
-![Funcionamiento DL](https://i.imgur.com/KQBFt14.jpg)
-
 El Aprendizaje Profundo es un conjunto de algoritmos no lineales que se pueden aplicar en el modelado de datos y el reconocimiento de patrones. Cuando nos referimos a una forma no lineal, estamos hablando de las capas de redes neuronales artificiales que se apilan en una jerarquía, que van desde características de bajo nivel de abstracción, hasta características de nivel de abstracción más complejas.
 
 La forma en que funciona el Aprendizaje Profundo es mediante el uso de estas cascadas de capas con unidades de procesamiento que permiten la extracción y transformación de variables. Cada red, dentro de su jerarquía, aplica una transformación a su capa de entrada y utiliza esa información de aprendizaje para crear un modelo estadístico de salida que itera tantas veces como sea necesario, hasta que alcanza un nivel aceptable de precisión y respuesta de aprendizaje.
