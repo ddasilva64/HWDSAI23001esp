@@ -383,13 +383,9 @@ Para empezar a entender qué es el Aprendizaje Profundo, primero debemos compara
 * **Nuestro cerebro** está formado por diferentes núcleos de redes neuronales que tienen unas características de percepción y respuesta muy específicas, es decir, cada red se especializa en tareas especiales y es diferente a las demás redes. Por ejemplo, la percepción de un olor y la respuesta de gusto o disgusto por ese olor; la percepción de un sonido y la transición de ese sonido a las sensaciones.
 * **En AI**, los modelos computacionales de Aprendizaje Profundo son una imitación de aquellas características arquitectónicas de nuestro sistema nervioso, lo que permite que cada red neuronal construida artificialmente sea entrenada para tareas específicas.
 
-![DL](https://i.imgur.com/i7RonwG.png)
-
 **¿Por qué se llama Aprendizaje Profundo?**
 
 En el cerebro humano, la arquitectura de las redes neuronales funciona de tal manera que **la información recibida del exterior pasa a través de una gran cantidad de capas antes de convertirse en una respuesta**.
-
-![Funcionamiento DL](https://i.imgur.com/KQBFt14.jpg)
 
 El Aprendizaje Profundo es un conjunto de algoritmos no lineales que se pueden aplicar en el modelado de datos y el reconocimiento de patrones. Cuando nos referimos a una forma no lineal, estamos hablando de las capas de redes neuronales artificiales que se apilan en una jerarquía, que van desde características de bajo nivel de abstracción, hasta características de nivel de abstracción más complejas.
 
@@ -402,8 +398,6 @@ La RPA es una forma de tecnología de automatización de procesos comerciales ba
 En las herramientas tradicionales de automatización del flujo de trabajo, un desarrollador de software produce una lista de acciones para automatizar una tarea y una interfaz con el sistema de back-end utilizando API's internas o un lenguaje de secuencias de comandos dedicado. Por el contrario, los sistemas RPA desarrollan la lista de acciones observando al usuario realizar esa tarea en la GUI de la aplicación y luego realizan la automatización repitiendo esas tareas. Esto puede reducir la barrera para el uso de la automatización en productos, que no disponen de una API para este propósito.
 
 Las herramientas RPA tienen fuertes similitudes técnicas con las herramientas de prueba de GUI. También automatizan las interacciones con la interfaz (GUI) y, a menudo, lo hacen repitiendo un conjunto de acciones de demostración realizadas por un usuario. Las herramientas de RPA difieren de dichos sistemas en que permiten que los datos se manejen en y entre múltiples aplicaciones, por ejemplo, recibir correos electrónicos que contienen una factura, extraer los datos y luego escribirlos en un sistema de contabilidad.
-
-![RPA](https://i.imgur.com/qbXFaUr.png)
 
 **Visión Artificial (Computer Vision, CV)**
 
