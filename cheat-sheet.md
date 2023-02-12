@@ -1,5 +1,7 @@
 # Cheat sheet
 
+### **Importacia y usos**
+
 **Salarios en DS**
 
 | ámbito geográfico | júnior | senior |
@@ -37,3 +39,5 @@
 5. **Escalar modelos de ML** (poner los modelos a disposición de los usuarios)
 
 ![Proceso de DS](https://i.imgur.com/lEdhSHk.png)
+
+![Método científico en DS](https://i.imgur.com/ikqpWTP.png)
