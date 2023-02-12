@@ -1,4 +1,4 @@
-# Glosario de términos DS
+# Glosario de términos DS y AI
 
 #### **Glosario de la DS y de la AI**
 

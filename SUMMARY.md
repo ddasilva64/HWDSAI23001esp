@@ -10,4 +10,4 @@
 * [Cheat sheet](cheat-sheet.md)
 * [Lecturas o herramientas recomendadas](lecturas-o-herramientas-recomendadas.md)
 * [Libros interesantes](libros-interesantes.md)
-* [Glosario de términos DS](glosario-de-terminos-ds.md)
+* [Glosario de términos DS y AI](glosario-de-terminos-ds-y-ai.md)
