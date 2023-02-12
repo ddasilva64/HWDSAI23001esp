@@ -72,3 +72,29 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 ![Proceso ML](https://i.imgur.com/afrHvyY.png)
 
 ![Ingeniero ML](https://i.imgur.com/6IGjLeu.png)
+
+![Ciclo de vida de ML](https://i.imgur.com/k550ZNi.png)
+
+|                                                      **DS**                                                      |                                  **AI**                                 |
+| :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+| Proceso de análisis de los datos y generación de predicciones para la toma de decisiones y creación de productos | Algoritmos para predecir eventos futuros que emulan la cognición humana |
+
+|                             **Relación**                             |
+| :------------------------------------------------------------------: |
+| En el proceso de la DS utilizamos la AI como una de sus herramientas |
+
+![5 V's del Big Data](https://i.imgur.com/pftHCnE.png)
+
+![Relación entre DS y Big Data](https://i.imgur.com/Msl0VT8.png)
+
+![Ramas de la AI](https://i.imgur.com/Utgz7qW.png)
+
+![DL](https://i.imgur.com/i7RonwG.png)
+
+![Funcionamiento DL](https://i.imgur.com/KQBFt14.jpg)
+
+![RPA](https://i.imgur.com/qbXFaUr.png)
+
+![CV](https://i.imgur.com/Mvcaesc.png)
+
+![NLP](https://i.imgur.com/CDjoFNw.png)

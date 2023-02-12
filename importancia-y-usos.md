@@ -444,6 +444,8 @@ Ciertos robots requieren la entrada del usuario para funcionar, mientras que otr
 
 En definitiva, la industria de la DS y AI tiene una gama amplísima de áreas de aplicación.
 
+![Aplicaciones DS](https://i.imgur.com/z1ve7ky.png)
+
 #### **Roles en la industria: cómo funcionan los equipos de DS y de AI**
 
 Dentro de la industria de la DS existen varios roles diferenciados, pero esto no siempre ha sido de esta forma. En el pasado las empresas usaban el término científico de datos (data scientist), en referencia a la persona que se encargaba de todas las tareas relacionadas con los datos en general.
