@@ -201,6 +201,8 @@ Se usan para entrenar un algoritmo y obtener un modelo, que pueda hacer predicci
 
 Se los proporcionamos al modelo, obtenido tras de ser entrenado, que son del mismo contexto que los de entrenamiento, pero con diferentes detalles. Con ellos se van a generar predicciones que serán evaluadas para garantizar la eficacia del modelo.
 
+![Proceso ML](https://i.imgur.com/afrHvyY.png)
+
 **Utilidad del ML**
 
 Por ejemplo, si queremos saber cuándo tendremos una perdida masiva de clientes, podemos hacer un modelo que haga esa predicción. Además, podemos saber cuándo y qué producto ofrecerles para no perderlos.
