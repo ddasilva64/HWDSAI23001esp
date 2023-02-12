@@ -17,3 +17,5 @@
 * Finanzas
 * Internet de las cosas (Internet of Things, IoT)
 * Etc.
+
+![Analista de datos vs científico de datos](https://i.imgur.com/9ooKGqm.png)
