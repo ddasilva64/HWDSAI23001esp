@@ -279,7 +279,8 @@ Para que los datos sean considerados Big Data deben cumplir con las 5 V’s del 
 1. **Volumen**: La organización tiene gran cantidad de datos, desde su funcionamiento, hasta las interacciones de los usuarios.
 2. **Velocidad**: Los datos del Big Data deben tener una velocidad "en vivo", para poder procesarlos de manera adecuada, considerando su tamaño.
 3. **Variedad**: Los datos que almacene o transaccione la empresa tienen distintos tipos de formatos.
-4. **Veracidad**: Los datos que se tengan en **Big Data deben ser confiables**, porque **en ellos se basarán importantes decisiones del negocio**. 5 **Valor**: Estos datos, que se almacenan, deben proporcionar algún tipo de ventaja a la empresa, a la hora de tomar decisiones o de hacer productos para sus consumidores.
+4. **Veracidad**: Los datos que se tengan en **Big Data deben ser confiables**, porque **en ellos se basarán importantes decisiones del negocio**.&#x20;
+5. **Valor**: Estos datos, que se almacenan, deben proporcionar algún tipo de ventaja a la empresa, a la hora de tomar decisiones o de hacer productos para sus consumidores.
 
 **Procesamiento de Big Data**
 
