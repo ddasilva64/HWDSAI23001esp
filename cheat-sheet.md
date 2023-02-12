@@ -41,3 +41,16 @@
 ![Proceso de DS](https://i.imgur.com/lEdhSHk.png)
 
 ![Método científico en DS](https://i.imgur.com/ikqpWTP.png)
+
+**Storytelling para presentar los análisis**
+
+1. **Título** deslumbrante.
+2. ¿**Qué** resolvemos?.
+3. ¿**Cómo** lo resolvemos?.
+4. ¿Cuál es nuestro objetivo?, es decir, ¿**por qué** lo resolvemos?
+
+**Las personas creemos en historias**.
+
+**Storytelling => convertir problemas de datos en historias**
+
+![Análisis con Storytelling](https://i.imgur.com/1MwX8Ur.jpg)
