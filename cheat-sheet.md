@@ -58,3 +58,7 @@
 **Áreas de conocimientos en DS**
 
 ![Áreas conociemiento DS](https://i.imgur.com/OiGRrLY.png)
+
+#### DS vs AI
+
+![DS vs AI](https://i.imgur.com/4bIC90T.png)
