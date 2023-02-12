@@ -68,3 +68,11 @@ La **AI** intenta **emular la inteligencia humana**, **por medio de algoritmos**
 El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada habilidad,** mediante la entrada de **muchos datos** en un **algoritmo**, que arrojan un **modelo**, el cual podrá **resolver problemas por medio de predicciones**, o también implementarlo en un software para **solucionar determinadas situaciones**.
 
 ![ML](https://i.imgur.com/KhgI5nF.png)
+
+**Datos de entrenamiento**
+
+Se usan para **entrenar un algoritmo** y **obtener un modelo**, se usan para mejorar rendimiento en el negocio.
+
+**Datos de entrada**
+
+Se los proporcionamos al modelo, obtenido tras de ser entrenado, que son del mismo contexto que los de entrenamiento, pero con diferentes detalles. Con ellos se van a generar predicciones que serán evaluadas para garantizar la eficacia del modelo.
