@@ -163,6 +163,8 @@ Es una **intersección de varias áreas de conocimiento**, entre las que se encu
 * Informática
 * Conocimiento del dominio o sector del negocio
 
+![Áreas conociemiento DS](https://i.imgur.com/OiGRrLY.png)
+
 El nivel de profundidad de cada una de estas áreas se va a determinar de acuerdo al rol que desarrollemos. Sin embargo, algunas habilidades básicas para todos los roles serían: Programación, Estadística Descriptiva, Probabilidad y mantenerse actualizado sobre lo que pasa alrededor de la industria en que nos encontramos (dominio).
 
 **Conclusión**
@@ -178,6 +180,8 @@ Esto lo hacen, las máquinas, **por medio de algoritmos** que modelan cómo apre
 Una de las grandes hazañas que ha podido lograr la AI fue ganarle a campeones mundiales en Go, Ajedrez y League of Legends, por nombrar algunos. Por supuesto, no fue la misma máquina.
 
 Además, una aclaración importante es que la AI está **limitada**, de cierto modo, porque **no puede tener consciencia de sí misma** y **no puede tomar sus propias decisiones**.
+
+![DS vs AI](https://i.imgur.com/4bIC90T.png)
 
 **Aprendizaje Automático (Machine Learning, ML)**
 
