@@ -189,6 +189,8 @@ Es una **rama de la AI**, que tiene como objetivo **hacer que los ordenadores ap
 
 Esto se hace por medio de pasarle **muchos datos** a un **algoritmo**, que posteriormente nos va a arrojar un **modelo**, el cual podrá **resolver problemas por medio de predicciones**, o también implementarlo en un software para **solucionar determinadas situaciones**.
 
+![ML](https://i.imgur.com/KhgI5nF.png)
+
 **Datos de entrenamiento**
 
 Se usan para entrenar un algoritmo y obtener un modelo, que pueda hacer predicciones para resolver problemas e implementarse en un software, para un mejor rendimiento en el negocio.
