@@ -79,7 +79,7 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
 | Proceso de análisis de los datos y generación de predicciones para la toma de decisiones y creación de productos | Algoritmos para predecir eventos futuros que emulan la cognición humana |
 
-|                               **Ambas**                              |
+|                             **Relación**                             |
 | :------------------------------------------------------------------: |
 | En el proceso de la DS utilizamos la AI como una de sus herramientas |
 
