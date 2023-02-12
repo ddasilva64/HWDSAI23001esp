@@ -223,6 +223,8 @@ Todos los días tendremos que enfrentarnos a las siguientes actividades, si quer
 * **Analizar el rendimiento de los modelos** de aprendizaje automático
 * **Mantener el modelo** de Aprendizaje Automático **actualizado**
 
+![Ingeniero ML](https://i.imgur.com/6IGjLeu.png)
+
 **Conclusión**
 
 En resumen, un **Ingeniero de aprendizaje automático** monitorea, evalúa y corrige los modelos propuestos por el **Científico de datos** y crea un producto con los desarrolladores, implementando los modelos de \*\*Aprendizaje automático \*\*.
