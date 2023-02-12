@@ -73,6 +73,8 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 
 Se usan para **entrenar un algoritmo** y **obtener un modelo**, se usan para mejorar rendimiento en el negocio.
 
+![Training data](https://i.imgur.com/EkBVaXr.png)
+
 **Datos de entrada**
 
-Se los proporcionamos al modelo, obtenido tras de ser entrenado, que son del mismo contexto que los de entrenamiento, pero con diferentes detalles. Con ellos se van a generar predicciones que serán evaluadas para garantizar la eficacia del modelo.
+**Son las entradas del modelo** (entrenado) y del mismo contexto que los de entrenamiento, pero con diferentes detalles. Con ellos se van a **generar predicciones.**
