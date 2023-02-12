@@ -296,6 +296,8 @@ En el procedimiento de búsqueda de información valiosa, que es encargado a la 
 
 Además, **se pueden emplear modelos entrenados de ML** de AI para agilizar y encontrar patrones inesperados.
 
+![Relación entre DS y Big Data](https://i.imgur.com/Msl0VT8.png)
+
 **Conclusión**
 
 De todo lo anterior se desprende que el Big Data es el concepto que se relaciona, cuando una empresa tiene muchísimos datos y la forma de determinarlo es por medio de las 5v’s.
