@@ -229,11 +229,9 @@ Todos los días tendremos que enfrentarnos a las siguientes actividades, si quer
 
 En resumen, un **Ingeniero de aprendizaje automático** monitorea, evalúa y corrige los modelos propuestos por el **Científico de datos** y crea un producto con los desarrolladores, implementando los modelos de \*\*Aprendizaje automático \*\*.
 
-**Proceso de integración de ML en el producto**
+**Proceso de integración de ML al producto**
 
 Hay equipos encargados de implementar modelos de ML en el producto. Por ejemplo: el algoritmo de recomendaciones de Netflix o YouTube, quienes por medio de los datos que el usuario crea, al interactuar con la plataforma, predice cuáles son los videos que más podrían interesarle.
-
-![Ciclo de vida de ML](https://i.imgur.com/k550ZNi.png)
 
 Los pasos para la integración del **ML** al producto son:
 
