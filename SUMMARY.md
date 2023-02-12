@@ -7,3 +7,4 @@
 * [Ingeniero de datos](ingeniero-de-datos.md)
 * [Ingeniero ML](ingeniero-ml.md)
 * [Ser profesional](ser-profesional.md)
+* [Cheat sheet](cheat-sheet.md)
