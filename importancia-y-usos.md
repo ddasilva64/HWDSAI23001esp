@@ -383,13 +383,9 @@ Para empezar a entender qué es el Aprendizaje Profundo, primero debemos compara
 * **Nuestro cerebro** está formado por diferentes núcleos de redes neuronales que tienen unas características de percepción y respuesta muy específicas, es decir, cada red se especializa en tareas especiales y es diferente a las demás redes. Por ejemplo, la percepción de un olor y la respuesta de gusto o disgusto por ese olor; la percepción de un sonido y la transición de ese sonido a las sensaciones.
 * **En AI**, los modelos computacionales de Aprendizaje Profundo son una imitación de aquellas características arquitectónicas de nuestro sistema nervioso, lo que permite que cada red neuronal construida artificialmente sea entrenada para tareas específicas.
 
-![DL](https://i.imgur.com/i7RonwG.png)
-
 **¿Por qué se llama Aprendizaje Profundo?**
 
 En el cerebro humano, la arquitectura de las redes neuronales funciona de tal manera que **la información recibida del exterior pasa a través de una gran cantidad de capas antes de convertirse en una respuesta**.
-
-![Funcionamiento DL](https://i.imgur.com/KQBFt14.jpg)
 
 El Aprendizaje Profundo es un conjunto de algoritmos no lineales que se pueden aplicar en el modelado de datos y el reconocimiento de patrones. Cuando nos referimos a una forma no lineal, estamos hablando de las capas de redes neuronales artificiales que se apilan en una jerarquía, que van desde características de bajo nivel de abstracción, hasta características de nivel de abstracción más complejas.
 
@@ -403,8 +399,6 @@ En las herramientas tradicionales de automatización del flujo de trabajo, un de
 
 Las herramientas RPA tienen fuertes similitudes técnicas con las herramientas de prueba de GUI. También automatizan las interacciones con la interfaz (GUI) y, a menudo, lo hacen repitiendo un conjunto de acciones de demostración realizadas por un usuario. Las herramientas de RPA difieren de dichos sistemas en que permiten que los datos se manejen en y entre múltiples aplicaciones, por ejemplo, recibir correos electrónicos que contienen una factura, extraer los datos y luego escribirlos en un sistema de contabilidad.
 
-![RPA](https://i.imgur.com/qbXFaUr.png)
-
 **Visión Artificial (Computer Vision, CV)**
 
 La CV es un campo científico interdisciplinario que se ocupa de cómo los ordenadores pueden obtener una comprensión de alto nivel a partir de imágenes o videos digitales. Desde la perspectiva de la ingeniería, busca comprender y automatizar las tareas que puede realizar el sistema visual humano.
@@ -415,15 +409,11 @@ La disciplina científica de la CV se ocupa de la teoría detrás de los sistema
 
 Los subdominios de la CV incluyen la reconstrucción de escenas, la detección de objetos, la detección de eventos, el seguimiento de video, el reconocimiento de objetos, la estimación de poses en 3D, el aprendizaje, la indexación, la estimación de movimiento, el control visual, el modelado de escenas en 3D y la restauración de imágenes.
 
-![CV](https://i.imgur.com/Mvcaesc.png)
-
 **Procesamiento del Lenguaje Natural (Natural Language Processing, NLP)**
 
 El NLP es un subcampo interdisciplinario de la Lingüística, la Informática y la AI que se ocupa de las interacciones entre los ordenadores y el lenguaje humano, en particular, cómo programar los ordenadores para procesar y analizar grandes cantidades de datos del lenguaje natural. El objetivo es un ordenador capaz de "comprender" el contenido de los documentos, incluidos los matices contextuales del lenguaje dentro de ellos. Luego, la tecnología puede extraer con precisión la información y los conocimientos contenidos en los documentos, así como categorizar y organizar los propios documentos.
 
 Los desafíos en el NLP con frecuencia implican el reconocimiento del habla, la comprensión del lenguaje natural y la generación del lenguaje natural.
-
-![NLP](https://i.imgur.com/CDjoFNw.png)
 
 **Robótica**
 
@@ -443,8 +433,6 @@ Ciertos robots requieren la entrada del usuario para funcionar, mientras que otr
 **Conclusión**
 
 En definitiva, la industria de la DS y AI tiene una gama amplísima de áreas de aplicación.
-
-![Aplicaciones DS](https://i.imgur.com/z1ve7ky.png)
 
 #### **Roles en la industria: cómo funcionan los equipos de DS y de AI**
 
@@ -539,3 +527,10 @@ Los roles más importantes en la industria de la DS son:
 * ML engineer
 
 Eso no quita que existan otros aún más especializados, que demanden las empresas con alto desarrollo de la cultura Data-Driven.
+
+#### **Prueba: Importancia y usos de data science e AI**
+
+* Se puede hacer tantas veces como se quiera.
+* Consta de 5 preguntas.
+* No hay límite de tiempo para presentarlo, sin estrés.
+* Al finalizar se sabrá qué conocimientos deberemos reforzar para dominarlos.

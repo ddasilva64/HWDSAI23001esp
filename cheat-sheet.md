@@ -100,3 +100,19 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 ![NLP](https://i.imgur.com/CDjoFNw.png)
 
 ![Aplicaciones DS](https://i.imgur.com/z1ve7ky.png)
+
+![Científico de datos moderno](https://i.imgur.com/nYgJGao.png)
+
+![Pirámide de necesidades de la DS](https://i.imgur.com/CGz6yFd.jpg)
+
+![Roles en la DS](https://i.imgur.com/1bSk80k.jpg)
+
+![Perfil de ingeniero de datos](https://i.imgur.com/h8345pc.png)
+
+![Perfil del científico de datos](https://i.imgur.com/0ZBqBTn.png)
+
+![Perfil del analista de datos](https://i.imgur.com/nXI5kWx.png)
+
+![Ingeniero ML vs científico de datos](https://i.imgur.com/clEyAon.png)
+
+![Estrategia DS](https://i.imgur.com/j6Rtb38.png)
