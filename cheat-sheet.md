@@ -55,4 +55,6 @@
 
 ![Análisis con Storytelling](https://i.imgur.com/1MwX8Ur.jpg)
 
+**Áreas de conocimientos en DS**
+
 ![Áreas conociemiento DS](https://i.imgur.com/OiGRrLY.png)

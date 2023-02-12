@@ -163,6 +163,8 @@ Es una **intersección de varias áreas de conocimiento**, entre las que se encu
 * Informática
 * Conocimiento del dominio o sector del negocio
 
+![Áreas conociemiento DS](https://i.imgur.com/OiGRrLY.png)
+
 El nivel de profundidad de cada una de estas áreas se va a determinar de acuerdo al rol que desarrollemos. Sin embargo, algunas habilidades básicas para todos los roles serían: Programación, Estadística Descriptiva, Probabilidad y mantenerse actualizado sobre lo que pasa alrededor de la industria en que nos encontramos (dominio).
 
 **Conclusión**
