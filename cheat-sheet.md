@@ -58,9 +58,3 @@
 **Áreas de conocimientos en DS**
 
 ![Áreas conociemiento DS](https://i.imgur.com/OiGRrLY.png)
-
-#### DS vs AI
-
-![DS vs AI](https://i.imgur.com/4bIC90T.png)
-
-La **AI** intenta **emular la inteligencia humana**, **por medio de algoritmos** (modelos). La AI, hoy en día, está **limitada**, porque **no puede tener consciencia de sí misma** y **no puede tomar sus propias decisiones**.
