@@ -156,3 +156,5 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 ![Proceso de ML](https://i.imgur.com/6cMQQVA.png)
 
 ![El día a día de un ingeniero ML](https://i.imgur.com/PllsvsP.jpg)
+
+![Herramientas y tecnologías para ingenieros ML](https://i.imgur.com/zT0jWex.png)

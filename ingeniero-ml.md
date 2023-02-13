@@ -4,8 +4,6 @@
 
 La persona con el rol de ingeniero ML toma los modelos de ML formulados por la DS, para su posterior seguimiento y evaluación. También se encarga de la implementación directamente con el producto, ya que este rol es responsable de mantener actualizados dichos modelos.
 
-![Proceso de ML](https://i.imgur.com/6cMQQVA.png)
-
 **El día a día de un ingeniero ML**
 
 Todos los días te tendremos que confrontar las siguientes actividades, si deseamos convertirnos en ingeniero ML
@@ -15,8 +13,6 @@ Todos los días te tendremos que confrontar las siguientes actividades, si desea
 * **Colabora con el científico de datos y el equipo de desarrollo** del producto
 * **Analiza el desempeño de los modelos** de ML
 * **Mantiene actualizado el modelo** ML
-
-![El día a día de un ingeniero ML](https://i.imgur.com/PllsvsP.jpg)
 
 **Conclusión**
 
@@ -33,8 +29,6 @@ Las herramientas con las que crearemos soft serán:
 * Principales librerías de ML: **Tensor Flow y Keras**
 * Tecnologías para exportar los proyectos a otras máquinas: **Flask, FastAPI**, tecnologías cloud, contenedores Doker y Kubernetes
 * **Matemáticas**: Estadística descriptiva e inferencia, Probabilidad, Álgebra lineal y Cálculo
-
-![Herramientas y tecnologías para ingenieros ML](https://i.imgur.com/zT0jWex.png)
 
 **¿Cómo empezar el camino de ingeniero ML?**
 
