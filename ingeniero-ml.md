@@ -34,6 +34,8 @@ Las herramientas con las que crearemos soft serán:
 * Tecnologías para exportar los proyectos a otras máquinas: **Flask, FastAPI**, tecnologías cloud, contenedores Doker y Kubernetes
 * **Matemáticas**: Estadística descriptiva e inferencia, Probabilidad, Álgebra lineal y Cálculo
 
+![Herramientas y tecnologías para ingenieros ML](https://i.imgur.com/zT0jWex.png)
+
 **¿Cómo empezar el camino de ingeniero ML?**
 
 Para comenzar nuestra carrera como ingeniero ML, es recomendable seguir los siguientes consejos, que nos facilitarán en gran medida el trayecto:
