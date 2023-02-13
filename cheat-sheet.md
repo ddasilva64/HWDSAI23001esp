@@ -128,7 +128,3 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 ![Proceso de visualización de datos](https://i.imgur.com/53Cya3u.jpg)
 
 ![Herramientas y tecnologías para analistas de datos](https://i.imgur.com/apc2CYZ.png)
-
-![Día a día de un científico de datos](https://i.imgur.com/zFbl2s8.jpg)
-
-![Científico de datos vs analista de datos](https://i.imgur.com/gacWDTf.png)
