@@ -34,6 +34,8 @@ Por medio de la Estadística Descriptiva, herramientas matemáticas y tecnológi
 
 Una vez realizados los hallazgos, gracias a las exploraciones y análisis de datos, **es indispensable comunicarlos de forma sencilla y con la menor carga cognitiva posible**, para la inmediata toma de decisiones y creación de productos, si es posible.
 
+![Qué hace un analista de datos](https://i.imgur.com/dQAWMxb.jpg)
+
 **Ciclo de trabajo de un analista de datos**
 
 Muy de la mano con las actividades del día a día de un analista de datos, existe una estructura que se debe mantener e iterar, es decir, repetir varias veces hasta obtener el resultado esperado. Las cuales son:
@@ -62,9 +64,13 @@ Además de los roles más conocidos dentro de la industria de la DS, existen alg
 
 Es una persona que tiene un **conocimiento más profundo del negocio** y está para ayudar al analista de datos a identificar las preguntas o casos de negocio.
 
+![Rol de Business Analist (BA)](https://i.imgur.com/1IcE9t1.png)
+
 **Data visualization specialist**
 
 Es la persona **experta en diseñar y construir dashboards** para presentar los hallazgos a las demás personas, de manera fácil y sencilla.
+
+![Proceso de visualización de datos](https://i.imgur.com/53Cya3u.jpg)
 
 **Conclusión**
 
@@ -89,6 +95,8 @@ Algunas de estas herramientas son:
 * Python y R
 * Jupyter notebooks (son plataformas donde podremos escribir código sin preocuparnos por instalaciones)
 * Librerías de Python como: NumPy, Pandas y Matplotlib
+
+![Herramientas y tecnologías para analistas de datos](https://i.imgur.com/apc2CYZ.png)
 
 **¿Cómo empezar a ser analista de datos?**
 
