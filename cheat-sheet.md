@@ -116,3 +116,6 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 ![Ingeniero ML vs científico de datos](https://i.imgur.com/clEyAon.png)
 
 ![Estrategia DS](https://i.imgur.com/j6Rtb38.png)
+
+### **Analista de datos**
+
