@@ -141,3 +141,10 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 
 ## Ingeniero de datos
 
+![Pipelines ETL](https://i.imgur.com/0c9KGgW.png)
+
+![ETL](https://i.imgur.com/OZcD25Z.png)
+
+#### \*\*Roles relacionados
+
+![Data architect](https://i.imgur.com/IP9j0nL.png)
