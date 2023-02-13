@@ -138,3 +138,6 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 ![Proceso de DS](https://i.imgur.com/rAN6CZf.png)
 
 ![Día a día de un científico de datos](https://i.imgur.com/zFbl2s8.jpg)
+
+## Ingeniero de datos
+
