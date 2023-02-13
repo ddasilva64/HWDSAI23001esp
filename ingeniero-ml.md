@@ -16,6 +16,8 @@ Todos los días te tendremos que confrontar las siguientes actividades, si desea
 * **Analiza el desempeño de los modelos** de ML
 * **Mantiene actualizado el modelo** ML
 
+![El día a día de un ingeniero ML](https://i.imgur.com/PllsvsP.jpg)
+
 **Conclusión**
 
 Para sintetizar, un ingeniero ML hace seguimiento, evaluación y corrección de los modelos planteados por el científico de datos, y crear producto con los desarrolladores, al implementar los modelos de ML.
