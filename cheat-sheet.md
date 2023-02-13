@@ -119,4 +119,8 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 
 ### **Analista de datos**
 
-![Qué hace un analista de datos](https://i.imgur.com/gt4Z7B0.jpg)
+![Qué hace un analista de datos](https://i.imgur.com/dQAWMxb.jpg)
+
+**Roles relacionados**
+
+![Rol de Business Analist (BA)](https://i.imgur.com/1IcE9t1.png)
