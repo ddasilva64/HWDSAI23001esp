@@ -148,3 +148,5 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 #### \*\*Roles relacionados
 
 ![Data architect](https://i.imgur.com/IP9j0nL.png)
+
+![Herramientas y tecnologías para ingenieros de datos](https://i.imgur.com/2fZjBiO.png)
