@@ -128,3 +128,28 @@ El **ML** es una **rama de la AI. Hace que los ordenadores aprendan determinada 
 ![Proceso de visualización de datos](https://i.imgur.com/53Cya3u.jpg)
 
 ![Herramientas y tecnologías para analistas de datos](https://i.imgur.com/apc2CYZ.png)
+
+![Científico de datos vs analista de datos](https://i.imgur.com/gacWDTf.png)
+
+### Científico de datos
+
+![Integración de la ML en el producto](https://i.imgur.com/FwWklLI.png)
+
+![Proceso de DS](https://i.imgur.com/rAN6CZf.png)
+
+![Día a día de un científico de datos](https://i.imgur.com/zFbl2s8.jpg)
+
+## Ingeniero de datos
+
+![Pipelines ETL](https://i.imgur.com/0c9KGgW.png)
+
+![ETL](https://i.imgur.com/OZcD25Z.png)
+
+#### \*\*Roles relacionados
+
+![Data architect](https://i.imgur.com/IP9j0nL.png)
+
+![Herramientas y tecnologías para ingenieros de datos](https://i.imgur.com/2fZjBiO.png)
+
+### Ingeniero ML
+

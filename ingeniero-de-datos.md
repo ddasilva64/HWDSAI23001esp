@@ -69,8 +69,6 @@ Para triunfar como Data Engineer, debes conocer y saber utilizar las siguientes 
 * Orquestadores Kubernetes
 * Matemática: estadística descriptiva
 
-![Herramientas y tecnologías para ingenieros de datos](https://i.imgur.com/2fZjBiO.png)
-
 **¿Cómo iniciarse como ingeniero de datos?**
 
 1. Aprender a programar en **Python** y tener bases sólidas de **ingeniería de software**
