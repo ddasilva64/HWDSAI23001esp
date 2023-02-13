@@ -4,6 +4,8 @@
 
 La persona con el rol de ingeniero ML toma los modelos de ML formulados por la DS, para su posterior seguimiento y evaluación. También se encarga de la implementación directamente con el producto, ya que este rol es responsable de mantener actualizados dichos modelos.
 
+![Proceso de ML](https://i.imgur.com/6cMQQVA.png)
+
 **El día a día de un ingeniero ML**
 
 Todos los días te tendremos que confrontar las siguientes actividades, si deseamos convertirnos en ingeniero ML
