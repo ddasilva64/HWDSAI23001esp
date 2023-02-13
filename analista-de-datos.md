@@ -34,6 +34,8 @@ Por medio de la Estadística Descriptiva, herramientas matemáticas y tecnológi
 
 Una vez realizados los hallazgos, gracias a las exploraciones y análisis de datos, **es indispensable comunicarlos de forma sencilla y con la menor carga cognitiva posible**, para la inmediata toma de decisiones y creación de productos, si es posible.
 
+![Qué hace un analista de datos](https://i.imgur.com/gt4Z7B0.jpg)
+
 **Ciclo de trabajo de un analista de datos**
 
 Muy de la mano con las actividades del día a día de un analista de datos, existe una estructura que se debe mantener e iterar, es decir, repetir varias veces hasta obtener el resultado esperado. Las cuales son:
