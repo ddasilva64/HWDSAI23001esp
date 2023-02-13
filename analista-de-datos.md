@@ -64,6 +64,8 @@ Además de los roles más conocidos dentro de la industria de la DS, existen alg
 
 Es una persona que tiene un **conocimiento más profundo del negocio** y está para ayudar al analista de datos a identificar las preguntas o casos de negocio.
 
+![Rol de Business Analist (BA)](https://i.imgur.com/1IcE9t1.png)
+
 **Data visualization specialist**
 
 Es la persona **experta en diseñar y construir dashboards** para presentar los hallazgos a las demás personas, de manera fácil y sencilla.
